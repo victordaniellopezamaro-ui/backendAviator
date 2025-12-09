@@ -14,7 +14,7 @@ const { Pool } = require('pg');
 
 // URL completa de la base de datos (configurar aquí directamente o en variable de entorno)
 const DATABASE_URL = process.env.DATABASE_URL || 
-  'postgresql://postgres:xQ20062x6TMxWdYc@db.tdbucetnumzqkngkygda.supabase.co:5432/postgres';
+  'postgresql://postgres:c77YUrhEeQlfTz9K@db.tdbucetnumzqkngkygda.supabase.co:5432/postgres';
 
 // Configuración del pool
 let dbConfig;
