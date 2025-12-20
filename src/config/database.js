@@ -14,7 +14,7 @@ const { Pool } = require('pg');
 
 // URL completa de la base de datos (configurar aquí directamente o en variable de entorno)
 const DATABASE_URL = process.env.DATABASE_URL || 
-  'postgresql://postgres.tdbucetnumzqkngkygda:SKWwSm2YGxPLq57P@aws-0-us-west-2.pooler.supabase.com:5432/postgres';
+  'postgresql://postgres.lgcbejktijpdjunrabtr:RPdVGV69RSvqQMaV@aws-1-us-west-1.pooler.supabase.com:5432/postgres';
 
 
 // Configuración del pool
